@@ -15,7 +15,7 @@ public class L2Q2 {
         for(int i = 0; i < m; i++){
             lista[i] = sc.nextInt();
         }
-        System.out.print("Vetor original: ");
+
         impressao();
         mergesort(0, m - 1);
         System.out.println("Total de chamadas ao mergesort: " + totalchamadas);
