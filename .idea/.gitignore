@@ -8,3 +8,9 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/Data_Structures_and_Algorithms.iml
+/misc.xml
+/modules.xml
+/vcs.xml
+/workspace.xml
+/out
